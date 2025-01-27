@@ -1,0 +1,15 @@
+modification/manipulation of dom
+------------------------
+-->updating/modify of dom
+
+//method
+createElement() to use this you have to follow 2 steps
+step1:create an element using createElement method
+Example:
+        let a = document.createElement("h1")
+        console.log(a) // <h1></h1>
+        a.textContent = "hello" //<h1>hello</h1>
+
+step2:append the created element to parent element using append()/appendchild() method
+Example:
+document.body.appendchild(a) // here body is parent
