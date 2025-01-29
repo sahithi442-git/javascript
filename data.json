@@ -1,0 +1,23 @@
+[
+{ 
+"name" : "abhi",
+"id" : 1 ,
+"designation" : "developer"
+
+},
+
+
+{
+   "name" : "kumar",
+    "id" : 2  ,
+    "designation" : "tester"
+ 
+},
+{
+    "name"  : "sai",
+    "id" : 3 ,
+    "designation" : "devops"
+}
+
+
+]

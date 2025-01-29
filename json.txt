@@ -1,0 +1,24 @@
+JSON (java-script object notation)
+---------------------------------
+  -->It is plain-text file where data will be stored in the form of key and value pair ,
+  where all the keys are inclosed with double quote.
+
+how to create JSON
+------------------
+JSON IS NOT PROGRAMMING LANGUAGES IN JUST SUPPORTS 21+ PROGRAMMING LANGUAGES
+
+step 1 :- create a .json file.
+step 2 :- to create json we cannot usse defined and function data.types
+          will store data in form of array of object[{}, {}, {}]
+
+Methods of json: There are two methods in json.
+                       1) Stringify()
+                          > will convert object to json type.
+                       2)parse()
+                          > will convert json to object format.
+-->two types
+1)SOAP (source object access protocol)
+      -->HTTP, XHR (xml http request)(AJAX)
+
+2)REST (representation state transfer)
+      -->JSON (supports more than 21 languages)
